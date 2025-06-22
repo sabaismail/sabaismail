@@ -55,8 +55,7 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<hr style="height:1px; border:none; background-color:#444; width:100%;" />
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabaismail&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
