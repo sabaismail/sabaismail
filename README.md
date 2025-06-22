@@ -3,7 +3,7 @@
 
 <h2 align="center">About Me</h2>
 
-<h3 align="center">Languages and Rrameworks</h3>
+<h3 align="center">Languages and Frameworks</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -23,8 +23,14 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -51,21 +57,18 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-v<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabaismail&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabaismail&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sabaismail&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaismail&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabaismail&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabaismail&theme=radical" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaismail&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sabaismail&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaismail&theme=radical" alt="GitHub Streak" />
 </p>
