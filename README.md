@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saba Ismail</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabaismail&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabaismail&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
-  </a>
-</p>
+<h3 align="center">A Passionate Software Engineer and Frontend Developer</h3>
 
 <h2 align="center">About Me</h2>
 
-- 🔭 I’m currently working on **SaaS**
-- 📫 How to reach me **[sabaismail011@gmail.com](mailto:sabaismail011@gmail.com)**
-
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Rrameworks</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -60,6 +50,14 @@
 </p>
 
 <h3 align="center">GitHub Stats</h3>
+
+v<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabaismail&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sabaismail&theme=radical&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaismail&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
